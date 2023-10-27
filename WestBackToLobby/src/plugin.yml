@@ -1,0 +1,6 @@
+name: WestBackToLobby
+version: 1.0
+author: west
+main: br.com.west.backtolobby.WestBackToLobby
+commands:
+  lobby:
